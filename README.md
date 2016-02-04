@@ -1,4 +1,5 @@
-# ScientificComputing
+﻿# Scientific Computing
+
 This is a course in the master Mechanical Engineering on the TUe.
 
 Learning objectives:
@@ -14,5 +15,4 @@ Type of examination: Assignment(s)
  
 Programming exercise 1 - Molecular Dynamics application related to Block 1 material,
 Programming exercise 2 - Finite elements application related to Block 2 material,
-Programming exercise 3 – Group project related to complete course material
-
+Programming exercise 3 - Group project related to complete course material
