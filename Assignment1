@@ -1,0 +1,17 @@
+/****************************************************************************
+ *                                                                          *
+ * File    : main.c  part of: assignment 1                                  *
+ *                                                                          *
+ * Purpose : Showing the skill developed during first part of the course    *
+ *                                                                          *
+ * History : Date      Reason                                               *
+ *           04/02/16  Created by V.G. de Bie                               *
+ *                                                                          *
+ ****************************************************************************/
+
+#include <stdio.h>
+
+int main ( void )
+{
+
+}
